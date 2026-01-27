@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirasu0801&layout=compact&langs_count=5&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirasu0801&layout=compact&langs_count=7&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirasu0801&theme=2077)
 
@@ -11,8 +11,6 @@
 ### Hi there 👋
 
 - 💻 I’m currently working on ...System Engineer(Infrastructure for Financial)
-- 🔥 I’m currently learning ... Cloud Infrastructure(AWS、Azure)、Network、Storage、OS(Linux)、IaC infrastructure.
-- 👯 I’m looking to collaborate on ...PS Customer.
-- 🔍 How to contact me: ...https://lit.link/aktsmm
+- 🔥 I’m currently learning ... Cloud Infrastructure(AWS、Azure)、Network、Storage、OS(Linux)、IaC、System Architecture.
 - 📚 Language: ...English or Japanese
 - ⚡ Fun fact: ...Electric work、Cycling、travel、Training
